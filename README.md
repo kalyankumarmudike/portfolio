@@ -1,7 +1,7 @@
 
 
 ```markdown
-# 🚀 Tharun Kudikayala - Portfolio
+# 🚀 Kalyan kumar Mudike - Portfolio
 
 A modern, animated, and interactive developer portfolio built with **React**, **Vite**, **TypeScript**, **Tailwind CSS**, and **Three.js** (via @react-three/fiber).  
 Features a beautiful animated starfield background, smooth navigation, and responsive design.
@@ -37,8 +37,8 @@ Features a beautiful animated starfield background, smooth navigation, and respo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/tharun2107/cosmic-tharun-verse.git
-cd cosmic-tharun-verse
+git clone https://github.com/kalyankumarmudike/portfolio.git
+cd portfolio
 ```
 
 ### 2. Install dependencies
@@ -60,7 +60,7 @@ Open [http://localhost:5173](http://localhost:8081) (or the port shown in your t
 ## 🏗️ Project Structure
 
 ```
-cosmic-tharun-verse/
+portfolio/
   ├── public/                # Static assets
   ├── src/
   │   ├── components/        # React components (sections, UI, effects)
@@ -91,7 +91,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-> Designed & developed by **Tharun Kudikayala**  
-> [LinkedIn](https://www.linkedin.com/in/tharun-kudikyala-37124727b/) • [GitHub](https://github.com/tharun2107)
+> Designed & developed by **Kalyankumar Mudike**  
+> [LinkedIn](https://www.linkedin.com/in/kalyankumarmudike/) • [GitHub](https://github.com/kalyankumarmudike/)
 ```
 
